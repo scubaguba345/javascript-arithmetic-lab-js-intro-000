@@ -12,3 +12,6 @@ function add(a,b){
  function divide(a,b){
    return a / b
  }
+function increment(n){}
+return n += 1;
+}
