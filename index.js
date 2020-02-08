@@ -13,5 +13,5 @@ function add(a,b){
    return a / b
  }
 function inc(n){
-return n += 1;
+  return n += 1;
 }
