@@ -6,6 +6,6 @@ function add(a,b){
  function subtract(a,b){
    return a - b
  }
- function multiplying(a,b){
+ function multiply(a,b){
    return a * b
  }
